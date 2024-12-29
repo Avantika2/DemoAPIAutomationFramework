@@ -2,9 +2,9 @@ name: API Test Framnework
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
   schedule:
     - cron: 00 18 * * *
     - cron: 00 3 * * *
