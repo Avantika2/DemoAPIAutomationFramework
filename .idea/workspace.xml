@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1139b87c-84bc-41c8-b870-e6458f184cab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/base/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/base/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/base/UserProfileManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/filter/Loggingfilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/models/requests/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/models/requests/ProfileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/models/requests/SignUpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/models/response/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/models/response/UserProfileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/tests/AccountCreationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/tests/ForgotPasswordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/tests/GetProfileRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/tests/LoginAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/tests/UpdateProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suite.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/avant/IdeaProjects/RESTAPI_Automation/src/test/java/com/api/models/response",
+    "onboarding.tips.debug.path": "C:/Users/avant/IdeaProjects/RESTAPI_Automation/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\avant\IdeaProjects\RESTAPI_Automation\src\test\java\com\api\models\response" />
+      <recent name="C:\Users\avant\IdeaProjects\RESTAPI_Automation\src\test\java\com\api\models\requests" />
+      <recent name="C:\Users\avant\IdeaProjects\RESTAPI_Automation\src\test\java\com\api\listeners" />
+      <recent name="C:\Users\avant\IdeaProjects\RESTAPI_Automation\src\test\java\com\api\filter" />
+      <recent name="C:\Users\avant\IdeaProjects\RESTAPI_Automation\src\test\java\com\api\base" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginAPITest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RESTAPI_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.api.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.api.tests.LoginAPITest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginAPITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1139b87c-84bc-41c8-b870-e6458f184cab" name="Changes" comment="" />
+      <created>1735466903577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735466903577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
